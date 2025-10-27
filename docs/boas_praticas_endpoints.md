@@ -22,15 +22,15 @@ Aplica-se a todos os dispositivos corporativos ou pessoais.
  -  Path: Variável de ambiente
 
 ## 4. BOAS PRÁTICAS GERAIS
-1. ## Manter o dispositivo sempre atualizado.
+1. ### Manter o dispositivo sempre atualizado.
   - Habilitar atualizações automáticas, Windows Update e Linux ´unattended-upgrades´.
   - Aplicar patches de segurança críticos em até 15 dias após lançamento (CIS Control 7).
 
-2. ## Manter o dispositivo sempre atualizado.
+2. ### Manter o dispositivo sempre atualizado.
   - Habilitar atualizações automáticas, Windows Update e Linux ´unattended-upgrades´.
   - Aplicar patches de segurança críticos em até 15 dias após lançamento (CIS Control 7).
 
-3. ## Definir boa política de senha
+3. ### Definir boa política de senha
   - Definir um número de histórico de senha de 24(ou mais, se o sistema permitir), garantindo que nenhuma das últimas 24 ou X senhas sejam reaproveitadas.
      > [!IMPORTANT] 
      > Justificativa: Quanto mais tempo com a mesma senha, maior a chance de um atacante descobrir a senha por meio de ataques de força bruta.
@@ -45,4 +45,7 @@ Aplica-se a todos os dispositivos corporativos ou pessoais.
      > [!TIP] 
      > Para definir via GP, siga o Path:
      > ´omputer Configuration\Policies\Windows Settings\Security Settings\Account Policies\Password Policy\Maximum password age´
-  - Definir o número de dias que se deve usar a senha antes de altera-la
+  - Definir o número de dias que se deve usar a senha antes de altera-la.
+    > [!TIP]
+> Helpful advice for doing things better or more easily.
+    
