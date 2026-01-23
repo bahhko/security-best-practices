@@ -7,12 +7,17 @@ Consolidar conhecimentos sobre governança, hardening e monitoramento de seguran
 
 ## 📚 Conteúdo
 
-[Controle 01] | Inventário e Controle de Ativos de Hardware (Nmap, Discovery) | ✅ Concluído |
-[Controle 02] | Inventário de Software e Tratamento de Vulnerabilidades | ✅ Concluído |
-[Controle 03] | Proteção de Dados (DLP, Criptografia, LGPD) | ✅ Concluído |
-[Controle 04] | Configuração Segura (Hardening, IaC, MDM) | ✅ Concluído |
-[Controle 05] | Gestão de Contas (Visibilidade, Senhas Fortes) | ✅ Concluído |
-[Controle 06] | Controle de Acesso (MFA, SSO, Zero Trust) | ✅ Concluído |
+[Controle 01] | Inventário e Controle de Ativos de Hardware (Nmap, Discovery) | ✅ Concluído 
+
+[Controle 02] | Inventário de Software e Tratamento de Vulnerabilidades | ✅ Concluído
+
+[Controle 03] | Proteção de Dados (DLP, Criptografia, LGPD) | ✅ Concluído
+
+[Controle 04] | Configuração Segura (Hardening, IaC, MDM) | ✅ Concluído 
+
+[Controle 05] | Gestão de Contas (Visibilidade, Senhas Fortes) | ✅ Concluído 
+
+[Controle 06] | Controle de Acesso (MFA, SSO, Zero Trust) | ✅ Concluído 
 
 ## 🛠️ Ferramentas & Conceitos Estudados
 * **Discovery:** Nmap (Ping Sweep, OS Detection), Wireshark.
