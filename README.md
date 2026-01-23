@@ -9,7 +9,7 @@ Consolidar conhecimentos sobre governança, hardening e monitoramento de seguran
 
 | Controle | Tópico Principal | Status |
 | :--- | :--- | :--- |
-| **[Controle 01](./Controls/01-Inventario-Ativos.md)** | Inventário e Controle de Ativos de Hardware (Nmap, Discovery) | ✅ Concluído |
+| **[Controle 01](Controls/01-Inventario-Ativos.md)** | Inventário e Controle de Ativos de Hardware (Nmap, Discovery) | ✅ Concluído |
 | **[Controle 02](./Controls/02-Ativos-Software.md)** | Inventário de Software e Tratamento de Vulnerabilidades | ✅ Concluído |
 | **[Controle 03](./Controls/03-Protecao-Dados.md)** | Proteção de Dados (DLP, Criptografia, LGPD) | ✅ Concluído |
 | **[Controle 04](./Controls/04-Configuracao-Segura.md)** | Configuração Segura (Hardening, IaC, MDM) | ✅ Concluído |
