@@ -7,14 +7,12 @@ Consolidar conhecimentos sobre governança, hardening e monitoramento de seguran
 
 ## 📚 Conteúdo
 
-| Controle | Tópico Principal | Status |
-| :--- | :--- | :--- |
-| **[Controle 01](Controls/01-Inventario-Ativos.md)** | Inventário e Controle de Ativos de Hardware (Nmap, Discovery) | ✅ Concluído |
-| **[Controle 02](./Controls/02-Ativos-Software.md)** | Inventário de Software e Tratamento de Vulnerabilidades | ✅ Concluído |
-| **[Controle 03](./Controls/03-Protecao-Dados.md)** | Proteção de Dados (DLP, Criptografia, LGPD) | ✅ Concluído |
-| **[Controle 04](./Controls/04-Configuracao-Segura.md)** | Configuração Segura (Hardening, IaC, MDM) | ✅ Concluído |
-| **[Controle 05](./Controls/05-Gestao-Contas.md)** | Gestão de Contas (Visibilidade, Senhas Fortes) | ✅ Concluído |
-| **[Controle 06](./Controls/06-Controle-Acesso.md)** | Controle de Acesso (MFA, SSO, Zero Trust) | ✅ Concluído |
+[Controle 01] | Inventário e Controle de Ativos de Hardware (Nmap, Discovery) | ✅ Concluído |
+[Controle 02] | Inventário de Software e Tratamento de Vulnerabilidades | ✅ Concluído |
+[Controle 03] | Proteção de Dados (DLP, Criptografia, LGPD) | ✅ Concluído |
+[Controle 04] | Configuração Segura (Hardening, IaC, MDM) | ✅ Concluído |
+[Controle 05] | Gestão de Contas (Visibilidade, Senhas Fortes) | ✅ Concluído |
+[Controle 06] | Controle de Acesso (MFA, SSO, Zero Trust) | ✅ Concluído |
 
 ## 🛠️ Ferramentas & Conceitos Estudados
 * **Discovery:** Nmap (Ping Sweep, OS Detection), Wireshark.
